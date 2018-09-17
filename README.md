@@ -1,1 +1,1 @@
-# Welcome to Netwealth Programming Guild
+# Welcome to Programming Guild
