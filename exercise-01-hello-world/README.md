@@ -99,3 +99,4 @@ You should see the `Hello World!` appear in the console.
 After completing the above reference material you should be able to do this with a little bit of effort:
 
 1. Change the program we created above so that it prints `"Hello <name>"` where name is passed on the command line.
+Push your changes to github, and send us a link to your repo on teams so we can run your program.
